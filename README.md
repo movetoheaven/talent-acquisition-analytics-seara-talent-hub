@@ -10,35 +10,37 @@ Seara Talent Hub aims to build a sustainable talent pipeline to support future w
 To analyze candidate profiles, skill availability, talent readiness, and recruitment channel effectiveness in order to support data-driven talent acquisition decisions and strengthen Seara Talent Hub's future talent pipeline.
 
 ## Business Questions
-What does the current talent pool look like?
-What skills are most commonly available among candidates?
-How ready are candidates to support startup workforce needs?
-Which recruitment channels attract the most qualified candidates?
-Are candidate motivations aligned with startup work environments?
-Tools & Technologies
-Microsoft Excel
-Python
-Pandas
-Matplotlib
-Google Colab
-Looker Studio
-Project Workflow
+- What does the current talent pool look like?
+- What skills are most commonly available among candidates?
+- How ready are candidates to support startup workforce needs?
+- Which recruitment channels attract the most qualified candidates?
+- Are candidate motivations aligned with startup work environments?
+
+## Tools & Technologies
+- Microsoft Excel
+- Python
+-Pandas
+- Matplotlib
+- Google Colab
+- Looker Studio
+
+## Project Workflow
 1. Data Cleaning & Preprocessing
-Handled missing values and inconsistent records.
-Standardized data formats and categorical variables.
-Prepared the dataset for analysis.
+  - Handled missing values and inconsistent records.
+  - Standardized data formats and categorical variables.
+  - Prepared the dataset for analysis.
 2. Data Transformation & Feature Engineering
-Created a Skill Score metric based on the number of technical skills mastered by each candidate.
-Developed a Competency Level classification:
-Emerging Talent
-Job-Ready Talent
-High-Potential Talent
+  - Created a Skill Score metric based on the number of technical skills mastered by each candidate.
+  - Developed a Competency Level classification:
+    - Emerging Talent
+    - Job-Ready Talent
+    - High-Potential Talent
 3. Exploratory Data Analysis (EDA)
-Candidate demographics analysis
-Skill availability analysis
-Competency level analysis
-Recruitment source analysis
-Candidate motivation analysis
+  - Candidate demographics analysis
+  - Skill availability analysis
+  - Competency level analysis
+  - Recruitment source analysis
+  - Candidate motivation analysis
 4. Dashboard Development
-Designed interactive dashboards in Looker Studio.
-Built visualizations to support talent acquisition decision-making.
+  - Designed interactive dashboards in Looker Studio.
+  - Built visualizations to support talent acquisition decision-making.
