@@ -80,14 +80,23 @@ Page 2 – Skills & Talent Readiness
 ## Business Recommendations
 Based on the analysis findings, the following recommendations can help strengthen Seara Talent Hub's talent acquisition strategy:
 1. Prioritize LinkedIn as the Primary Recruitment Channel
+
 LinkedIn consistently attracts both the highest volume of applicants and the strongest talent quality. Increasing recruitment efforts on this platform can improve sourcing efficiency and candidate quality.
+
 2. Expand Early-Career Talent Programs
+
 Since 56.68% of candidates are students or fresh graduates, internship, apprenticeship, and graduate development programs can be leveraged to build a sustainable talent pipeline.
+
 3. Address Skill Gaps in Data Visualization
+
 While SQL and Python are widely mastered, visualization tools such as Looker Studio show lower adoption rates. Providing targeted training programs can help enhance analytical capabilities across the talent pool.
+
 4. Accelerate Hiring for Job-Ready Talent
+
 With 90.3% of candidates classified as Job-Ready or High-Potential Talent, recruitment processes can be streamlined to reduce onboarding time and meet workforce demands more efficiently.
+
 5. Strengthen Employer Branding Around Growth Opportunities
+
 Candidates are primarily motivated by upskilling and networking opportunities. Highlighting learning, mentorship, and career development programs can improve candidate attraction and engagement.
 
 ## Dashboard Preview
